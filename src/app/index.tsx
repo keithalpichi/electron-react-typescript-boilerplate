@@ -1,9 +1,8 @@
-import '@blueprintjs/core/lib/css/blueprint.css'
-import '../styles/index.css';
+import "../styles/index.css"
 import * as React from 'react';
 
 export default class App extends React.Component {
   render() {
-    return <h1>Hello World</h1>
+    return <h1 className='p-4'>Hello World</h1>
   }
 }

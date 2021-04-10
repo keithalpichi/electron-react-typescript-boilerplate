@@ -4,7 +4,7 @@ Includes:
 - React
 - Typescript
 - TSLint
-- BlueprintJS (React component library)
+- TailwindCSS
 
 ## Development
 - `npm install` to install dependencies
