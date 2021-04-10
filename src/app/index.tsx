@@ -1,4 +1,3 @@
-import '@blueprintjs/core/lib/css/blueprint.css'
 import '../styles/index.css';
 import * as React from 'react';
 

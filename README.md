@@ -4,7 +4,10 @@ Includes:
 - React
 - Typescript
 - TSLint
-- BlueprintJS (React component library)
+- Styling:
+  - vanila CSS (use the [master](https://github.com/keithalpichi/electron-react-typescript-boilerplate/tree/master) branch)
+  - TailwindCSS (use the [tailwindcss](https://github.com/keithalpichi/electron-react-typescript-boilerplate/tree/tailwindcss) branch)
+  - BlueprintJS (use the [blueprintcss](https://github.com/keithalpichi/electron-react-typescript-boilerplate/tree/blueprintcss) branch)
 
 ## Development
 - `npm install` to install dependencies
